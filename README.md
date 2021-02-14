@@ -12,6 +12,6 @@ It's a very slow process. It takes time, patience and dedication; all of which a
 
 - 💞️ I’m looking to collaborate on AWS deployment and Azure AD Development. 
 
-Security Profioling, User Administration and Reporting, Software Enforcement (Endpoint Manager) and System/Service Stacks are what I am focused on; uplifting aged technologies and keeping relevant!
+Security Profiling, User Administration and Reporting, Software Enforcement (Endpoint Manager) and System/Service Stacks are what I am focused on; uplifting aged technologies and keeping relevant!
 
 - 📫 How to reach me on a few social medias. You can just look at my [page](https://blink.by/DAnkyNanky).
