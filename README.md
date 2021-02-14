@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DankyNanky
+- 👀 I’m interested in Scripting, Automation and Networking
+- 🌱 I’m currently learning Powershell, .NET and Python
+- 💞️ I’m looking to collaborate on AWS deployment and Azure AD
+- 📫 How to reach me on Riot(IM) or via Email.
