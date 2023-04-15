@@ -1,6 +1,6 @@
 @[NancarrowConsulting](https://michaelnancarrow.com) - just a side hustle of mine.
 
-<a href="https://michaelnancarrow.com"><img src="https://michaelnancarrow.com/webfront/wp-content/uploads/2023/01/FB-profile.jpg"></a>
+<a href="https://michaelnancarrow.com"><img src="https://michaelnancarrow.com/webfront/wp-content/uploads/2023/01/FB-profile.jpg" width="350" height="250"></a>
 
 
 
