@@ -1,5 +1,9 @@
 @[NancarrowConsulting](https://michaelnancarrow.com) - just a side hustle of mine.
 
+<a href="https://michaelnancarrow.com"><img src="https://michaelnancarrow.com/webfront/wp-content/uploads/2023/01/FB-profile.jpg"></a>
+
+
+
 Demonstrated track history within the IT Sector, spanning 10 years. I enjoy working on complicated networking issues, infrastructure-at-scale and process improvement. Advocate for device-agnostic environments, with centralised management. Devout lover of Linux, primarily Fedora, but fluent with all major OS and their iterations; I hate Windows.
 
 🗸 Entry Level 4 Cloud Security and Risk Engineer
