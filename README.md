@@ -26,6 +26,8 @@ Always willing to learn. Coding is always on my horizon to learn professionally.
 
 🗸 Aruba CPPM Certified
 
+<a href="https://stackexchange.com/users/3557691"><img src="https://stackexchange.com/users/flair/3557691.png" width="208" height="58" alt="profile for DankyNanky on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DankyNanky on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 Highly proficient in the following scripting and programming languages. Build, deploy and maintaining an inventory of low-level functions varying from AD, AAD and MS365 managment, SoE enforcement, network and system reporting, security enforcement and user administration. 
 
 🗸 Python
@@ -76,13 +78,10 @@ Home Setup:
       🗸 Windows Domain Controller
       🗸 NethServer Firewall
 
-🗸 Aruba InstantOn Home Network
-      🗸 ... and a 3800 just for LACP 
+🗸 Aruba InstantOn Home Network... and a 3800 just for LACP 
 
 Editors:
 
 🗸 Nano ;) 
-
 🗸 Visual Studio Code
-
 🗸 Sublime Text and Sublime Merge
