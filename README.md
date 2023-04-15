@@ -1,6 +1,7 @@
-@[NancarrowConsulting](https://michaelnancarrow.com) - just a side hustle of mine.
+@[NancarrowConsulting](https://michaelnancarrow.com) - just a side hustle of mine. Focusing on small-business and home user support, MSP, and consultation services. Reach out directly via [this address](mailto:github-connect@michaelnancarrow.com) if you want to collaborate.
 
-<a href="https://michaelnancarrow.com"><img src="https://michaelnancarrow.com/webfront/wp-content/uploads/2023/01/FB-profile.jpg" width="250" height="125"></a>
+Here, have an oversized, polarisingly white logo photo. I have no shame.
+<a href="https://michaelnancarrow.com"><img src="https://michaelnancarrow.com/webfront/wp-content/uploads/2023/01/FB-profile.jpg"></a>
 
 
 
