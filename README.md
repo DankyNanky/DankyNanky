@@ -27,7 +27,7 @@ Always willing to learn. Coding is always on my horizon to learn professionally.
 🗸 Aruba CPPM Certified
 
 -----
-_____
+
 If you want, you can view alot of my old work(s) here. This site is used as a Q&A, and is where I like to linger.
 
 <a href="https://stackexchange.com/users/3557691"><img src="https://stackexchange.com/users/flair/3557691.png" width="208" height="58" alt="profile for DankyNanky on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DankyNanky on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
@@ -46,6 +46,7 @@ Heavily focused on achieving efficiencies within an department; the less mundane
 
 🗸 Secure, Dynamic and Responsive Security Appliances
 
+-----
 
 The older I get, the more I start to appreciate this interface view: 
 ```
@@ -70,6 +71,7 @@ If you want to game, [check out my highly inappropriate profile](https://steamco
 
 I *presently* do not have Facebook, Instagram, SnapChat, Twitter, Discord, TeamSpeak, and any other social media account that you might ask. I do stalk [Superuser](https://stackexchange.com/users/3557691/dankynanky) and Reddit, though.
 
+-----
 ### Nerdy Details
 
 Home Setup:
