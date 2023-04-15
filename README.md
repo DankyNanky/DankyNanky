@@ -1,9 +1,5 @@
 @[NancarrowConsulting](https://michaelnancarrow.com) - just a side hustle of mine. Focusing on small-business and home user support, MSP, and consultation services. Reach out directly via [this address](mailto:github-connect@michaelnancarrow.com) if you want to collaborate.
 
-
-
-
-
 Demonstrated track history within the IT Sector, spanning 10 years. I enjoy working on complicated networking issues, infrastructure-at-scale and process improvement. Advocate for device-agnostic environments, with centralised management. Devout lover of Linux, primarily Fedora, but fluent with all major OS and their iterations; I hate Windows.
 
 🗸 Entry Level 4 Cloud Security and Risk Engineer
@@ -51,7 +47,7 @@ Heavily focused on achieving efficiencies within an department; the less mundane
 🗸 Secure, Dynamic and Responsive Security Appliances
 
 -----
-
+### Networking
 The older I get, the more I start to appreciate this interface view: 
 ```
 !
