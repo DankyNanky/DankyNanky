@@ -1,7 +1,7 @@
 @[NancarrowConsulting](https://michaelnancarrow.com) - just a side hustle of mine. Focusing on small-business and home user support, MSP, and consultation services. Reach out directly via [this address](mailto:github-connect@michaelnancarrow.com) if you want to collaborate.
 
 
-If you want, you can view alot of my old work(s) [here(https://stackexchange.com/users/3557691). This site is used as a Q&A, and is where I like to linger.
+If you want, you can view alot of my old work(s) [here](https://stackexchange.com/users/3557691). This site is used as a Q&A, and is where I like to linger. Yes, I cringe at it, too. 
 
 The older I get, the more I start to appreciate this interface view: 
 ```
