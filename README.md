@@ -1,13 +1,8 @@
 @[NancarrowConsulting](https://michaelnancarrow.com) - just a side hustle of mine. Focusing on small-business and home user support, MSP, and consultation services. Reach out directly via [this address](mailto:github-connect@michaelnancarrow.com) if you want to collaborate.
 
 
------
+If you want, you can view alot of my old work(s) [here(https://stackexchange.com/users/3557691). This site is used as a Q&A, and is where I like to linger.
 
-If you want, you can view alot of my old work(s) here. This site is used as a Q&A, and is where I like to linger.
-
-<a href="https://stackexchange.com/users/3557691"><img src="https://stackexchange.com/users/flair/3557691.png" width="208" height="58" alt="profile for DankyNanky on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DankyNanky on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
-### Networking
 The older I get, the more I start to appreciate this interface view: 
 ```
 !
