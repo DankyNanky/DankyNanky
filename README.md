@@ -24,11 +24,8 @@ interface FastEthernet0/14
 ```
 Of couse, there are more important things in a functional network, such as how many LACP instances you've got enabled. But enough of that. I am versatile in *Cisco*, *Aruba*, *Ubiquiti*, *Juniper* and their supporting products. Always looking for an excuse to make LACP in your network.
 
-If you don't compile from `dom0` then you're not [living life to the full]([url](https://www.qubes-os.org/doc/how-to-install-software-in-dom0/)). DNF is the best, you cannot -- and will not -- change my mind. 
+If you don't compile from `dom0` then you're not [living life to the full](https://www.qubes-os.org/doc/how-to-install-software-in-dom0/). DNF is the best, you cannot -- and will not -- change my mind. 
 
-This is me, signing out.
+This is me, signing out. Thanks for joining my TedX Talk. Can't miss, won't miss.
 
-Thanks for joining my TedX Talk.
-
-Can't miss, won't miss.
-
+Also Shannen, if you're reading this, can you make me a coffee?
