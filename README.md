@@ -1,9 +1,10 @@
-@[NancarrowConsulting](https://michaelnancarrow.com) - just a side hustle of mine. Focusing on small-business and home user support, MSP, and consultation services. Reach out directly via [this address](mailto:github-connect@michaelnancarrow.com) if you want to collaborate.
+Linux (QuebesOS preferred; don't argue with me), Security and Network Engineer.  
 
+Some *key* personal opinions you may find shaping my works:
 
-If you want, you can view alot of my old work(s) [here](https://stackexchange.com/users/3557691). This site is used as a Q&A, and is where I like to linger. Yes, I cringe at it, too. 
+1/ If you don't compile from `dom0` then you're not [living life to the full](https://www.qubes-os.org/doc/how-to-install-software-in-dom0/). DNF is the best, you cannot -- and will not -- change my mind. 
 
-The older I get, the more I start to appreciate this interface view: 
+2/ The older I get, the more I start to appreciate this interface view: 
 ```
 !
 interface FastEthernet0/14
@@ -17,10 +18,7 @@ interface FastEthernet0/14
  spanning-tree portfast
 !
 ```
-Of couse, there are more important things in a functional network, such as how many LACP instances you've got enabled. But enough of that. I am versatile in *Cisco*, *Aruba*, *Ubiquiti*, *Juniper* and their supporting products. Always looking for an excuse to make LACP in your network.
+3/ Of couse, there are more important things in a functional network, such as how many LACP instances you've got enabled. But enough of that. I am versatile in *Cisco*, *Aruba*, *Ubiquiti*, *Juniper* and their supporting products. Always looking for an excuse to make LACP in your network.
 
-If you don't compile from `dom0` then you're not [living life to the full](https://www.qubes-os.org/doc/how-to-install-software-in-dom0/). DNF is the best, you cannot -- and will not -- change my mind. 
 
-This is me, signing out. Thanks for joining my TedX Talk. Can't miss, won't miss.
 
-Also Shannen, if you're reading this, can you make me a coffee?
